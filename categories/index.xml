@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>جميع أقسام المدونة on مدونتى</title>
+    <link>https://yahyaahmed1.github.io/hugo-blog-page/categories/</link>
+    <description>Recent content in جميع أقسام المدونة on مدونتى</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Sat, 16 Sep 2023 16:14:19 +0300</lastBuildDate><atom:link href="https://yahyaahmed1.github.io/hugo-blog-page/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>قسم أول</title>
+      <link>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%A3%D9%88%D9%84/</link>
+      <pubDate>Wed, 13 Sep 2023 12:06:53 +0300</pubDate>
+      
+      <guid>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%A3%D9%88%D9%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم ثانى</title>
+      <link>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%86%D9%89/</link>
+      <pubDate>Wed, 13 Sep 2023 12:06:40 +0300</pubDate>
+      
+      <guid>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%86%D9%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم ثالث</title>
+      <link>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%84%D8%AB/</link>
+      <pubDate>Wed, 13 Sep 2023 12:06:33 +0300</pubDate>
+      
+      <guid>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%84%D8%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم رابع</title>
+      <link>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%B1%D8%A7%D8%A8%D8%B9/</link>
+      <pubDate>Wed, 13 Sep 2023 12:06:26 +0300</pubDate>
+      
+      <guid>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%B1%D8%A7%D8%A8%D8%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم خامس</title>
+      <link>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%AE%D8%A7%D9%85%D8%B3/</link>
+      <pubDate>Wed, 13 Sep 2023 12:06:15 +0300</pubDate>
+      
+      <guid>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%AE%D8%A7%D9%85%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم سادس</title>
+      <link>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%B3%D8%A7%D8%AF%D8%B3/</link>
+      <pubDate>Wed, 13 Sep 2023 12:06:06 +0300</pubDate>
+      
+      <guid>https://yahyaahmed1.github.io/hugo-blog-page/categories/%D9%82%D8%B3%D9%85-%D8%B3%D8%A7%D8%AF%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
