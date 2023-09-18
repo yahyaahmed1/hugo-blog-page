@@ -182,6 +182,7 @@ ul {
 			rgb(255 255 255 / 90%)
 		),
 		url("../images/hero-posts.jpg") !important;
+	background-position: top !important;
 }
 .hero--posts .hero__container > h1 {
 	color: var(--main-color);
